@@ -1,0 +1,15 @@
+Column names in CovType:
+
+Elevation
+Aspect
+Slope
+Horizontal_Distance_To_Hydrology
+Vertical_Distance_To_Hydrology
+Horizontal_Distance_To_Roadways
+Hillshade_9am
+Hillshade_Noon
+Hillshade_3pm
+Horizontal_Distance_To_Fire_Points
+Wilderness_Area-----------Categorical with 4 distinct values
+Soil_Type-----------------Categorical with 40 distinct values
+Cover_Type----------------Categorical with 7 distinct values
